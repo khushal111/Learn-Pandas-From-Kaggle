@@ -36,7 +36,7 @@ Khushal Singh Rajawat
 
 ## License
 
-This project is licensed under the APACHE License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the APACHE 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
